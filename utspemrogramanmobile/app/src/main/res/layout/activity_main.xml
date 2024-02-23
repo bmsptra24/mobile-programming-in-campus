@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnCenter"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@color/design_default_color_background"
+        android:text="Center"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:layout_centerVertical="true"/>
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btnCenter"
+        android:layout_alignLeft="@id/btnCenter"
+        android:layout_marginBottom="-2dp"
+        android:background="@color/design_default_color_background"
+        android:text="1" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/btnCenter"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="-2dp"
+        android:background="@color/design_default_color_background"
+        android:text="2" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btnCenter"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="-2dp"
+        android:background="@color/design_default_color_background"
+        android:text="3" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnCenter"
+        android:layout_alignLeft="@id/btnCenter"
+        android:layout_marginBottom="-2dp"
+        android:background="@color/design_default_color_background"
+        android:text="4" />
+</RelativeLayout>

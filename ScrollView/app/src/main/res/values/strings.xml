@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Belajar Android</string>
+    <string name="title">Perkembangan Operating System Android</string>
+    <string name="subtitle">Pengertian Android Operating System</string>
+    <string name="article">Ponsel pintar merupakan perangkat  yang marak digunakan oleh berbagai kalangan karena kemudahannnya untuk dibawa dan semua fitur yang terdapat di dalamnya. Ketersediaan berbagai layanan yang sebelumnya  hanya terdapat pada komputer sekarang dapat dinikmati pada ponsel yang kecil berkat adanya sistem operasi yang mampu mengatur berbagai aplikasi. Ponsel dibedakan  berdasarkan sistem operasi di dalamnya. Terdapat beberapa ponsel berdasarkan sistem operasinya,  yaitu Android, Ios, blackberry, Tizen, Windows, dan lainnya. Sistem operasi tersebut harus menghubungkan pengguna dengan perangkatnya, sehingga pengguna biasanya melihat dari segi harga dan kemudahan sistem operasi tersebut, sehingga semakin baik sistem operasinya, semakin laku ponselnya di pasaran.\n\n
+    Android merupakan Operating System (OS) berbasis linux yang bersifat terbuka dan dirancang untuk perangkat  layar sentuh.  Perkembangan OS Android sudah dimulai sejak awal 2003, yang dikembangkan oleh perusahaan bernama Android Inc. Awalnya, Android berencana untuk dikembangkan sebagai sistem operasi untuk kamera digital oleh Andy Rubin yang merupakan salah satu pencetus pengembangan OS Android dan dia dikenal sebagai Bapak Android. Pada 2004, Android mengalami perubahan rencana, yaitu pengembangannya difokuskan sebagai sistem operasi untuk ponsel pintar. Pada tahun 2005, Android Inc. dibeli oleh perusahaan bernama Google, karena tim Andy Rubin mengalami kendala dalam biaya dan di saat itu juga Google menggunakan Linux sebagai basis dari Android.\n
+    \n\n<b>Perkembangan Versi Android dari Waktu ke Waktu</b>
+        \n\nDalam pengembangannya, penamaan versi dari Android menggunakan nama-nama makanan manis. Bukan hanya itu, setiap perkembangan Android, berbagai konsep, tampilan, dan juga fungsi-fungsi yang baru juga ditambahkan pada sistem operasinya agar meningkatkan performa dan user experience.  Berikut adalah perkembangan versi Android dari pertama hingga yang terbaru:
+        \n\n<b>1. Android 1.0 dan 1.1 (Astro-Alpha dan Bender-Beta)</b>
+        \n\nKedua versi Android ini belum diluncurkan secara publik sehingga masih terdengar asing bagi kaum awam. Kedua versi Android ini adalah satu-satunya fase dimana penamaannya belum menggunakan makanan manis. Google pada awalnya menanamkan sistem operasi ini ke dalam ponsel pintar HTC dream dan membuat ponsel tersebut sebagai ponsel pertama yang menyimpan sistem operasi Android. Pada versi ini, sudah terdapat aplikasi Gmail, Youtube, Google Maps, dan Calendar yang tertanam pada sistem operasinya. Play store, yaitu tempat
+
+di mana pengguna mampu mengunduh dan memperbaharui aplikasi pada Android, juga merupakan salah satu fitur yang tertanam dan menjadi salah satu hal yang membuat Android berbeda dibanding sistem operasi lain. Tujuan utamanya adalah untuk membuat Android semakin bersahabat dengan pengguna.
+        \n\n<b>2. Android 1.5 (Cupcake)</b>
+        \n\nDalam versi Android yang ini mulai digunakan penamaan nama makanan dan karena merupakan versi ketiga maka penamaan diawali huruf “C” dan akhirnya diberi nama “Cupcake”. Beberapa fitur dari Android versi ini yang mengalami pembaharuan diantaranya bisa merekam  dan menontonvideo dengan kamera, ditambahkan fitur rotasi otomatis,  mampu terkoneksi dengan Bluetooth, penambahan beberapa widget baru, penambahan fitur untuk mengupload video pada Youtube, dan adanya keyboard dari pihak ketiga pada layar.
+        \n\n<b>3. Android 1.6 (Donut)</b>
+        \n\nAndroid versi ini mulai bisa digunakan dalam berbagai macam perangkat  dengan ukuran layar yang berbeda-beda. Beberapa fitur yang ditambahkan sangat berpengaruh, yaitu terdapat fitur baru yaitu search pada home screen yang bisa memudahkan user dalam menggunakan smartphonenya, terdapat jaringan berbasis CDMA yang memungkinkan  ponsel menggunakan layanan operator seluler dari seluruh dunia, pengintegrasian kamera dan galeri, sehingga kamera dapat mengakses galeri dengan lebih cepat, penambahan fitur text to speech, dan lainnya.
+        \n\n<b>4. Android 2.0-2.1 (Éclair)</b>
+        \n\nAndroid versi ini memiliki fitur google map, aplikasi peta lengkap dengan turn by turn navigation dan voice guidelines yang masih digunakan hingga sekarang. Terdapat juga perubahan UI dan browser baru dengan dukungan HTML5, penambahan fitur yang mendukung pembuatan lebih dari satu akun pada satu perangkat, fitur live wallpaper, swpe to unlock, kamus pintar yang dapat digunakan ketika mengetik dengan keyboard, fitur flash untuk kamera 3,2 MP, digital zoom, dan Bluetooth versi 2.1.
+        \n\n<b>5. Android 2.2 (Froyo/Frozen Yoghurt)</b>
+        \n\nFitur-fitur yang ditambahkan pada android versi ini diantaranya adalah fitur Wifi hotspot portable, fitur auto update pada android market, bisa memasang aplikasi pada SD card, dan mampu membuat kinerja aplikasi menjadi lebih cepat 2 hingga 5 kali dari sebelumnya. Terdapat juga fitur untuk meningkatkan  keamanan ponsel seperti penggunaan PIN dan kata sandi, fungsionalitas tethering USB, dan juga fitur play store yang mampu memperbaharui aplikasi secara otomatis.
+        \n\n<b>6. Android 2.3 (Gingerbread)</b>
+        \n\nGingerbread membawa perubahan yang sangat drastis pada Android seperti perubahan tampilan yang terkesan lebih modern pada ponsel. Perubahan pada antarmuka tidak hanya mempercantik tampilannya,  tetapi juga membuat antarmuka semakin terlihat simple dan cepat. Perubahan lain yang hadir pada Android versi ini adalah peningkatan resolusi untuk mendukung ukuran layar yang sangat besar, penambahan fungsi NFC, peningkatan fungsi copy-paste,  support format video VP8 dan WebM, berbagai efek audio baru seperti reverb, equalization, bass boost,dll, dan mendukung jumlah kamera yang lebih dari satu. Ponsel pertama yang membawa sistem operasi Gingerbread merupakan ponsel Nexus S yang dikembangkan oleh Samsung. Beberapa fitur lain yang ditambahkan pada sistem operasi Gingerbread versi Android 2.3.3 adalah adanya fitur voice chat dan video chat menggunakan Google Talk, perubahan versi keamanan SSL yang digunakan, dan juga beberapa ponsel yang mampu menggunakan Google Wallet.
+        \n\n<b>7. Android 3.0/3.1 (Honeycomb)</b>
+        \n\nAndroid ini merupakan OS yang dibuat khusus untuk mengoptimalkan penggunaan tablet  dengan membuat beberapa fungsi yang hanya dapat digunakan pada tablet saja. Perubahan signifikan yang terlihat merupakan pemanfaatannya tombol nonfisik untuk
+        navigasi dibanding tombol fisik yang sebelumnya  digunakan seperti tombol home dan back. Pada versi ini, ditambahkan juga sistem bar yang mampu digunakan untuk melihat notifikasi, bar aksi yang dapat ditarik dari atas untuk melihat opsi dan segala hal yang sampai sekarang terdapat pada bar aksi pada layar atas. Android ini juga support dengan multi-processor serta memberikan perubahan warna temapada smartphone dan memberikan tampilan preview pada widget. Fitur lain yang tak kalah berguna adalah fitur untuk mengenkripsi semua data pengguna untuk meningkatkan  keamanan ponsel.
+        \n\n<b>8. Android 0 (Ice Cream Sandwich)</b>
+        \n\nBeberapa fitur baru yang terdapat pada Android versi ini adalah membuka kunci dengan face recognition, adanya pemantauan serta control dari penggunaan data seluler, fitur pencarian email secara offline, dan berbagi informasi dengan NFC.
+        \n\n<b>9. Android 4.1/4.2/4.3 (Jelly Bean)</b>
+        \n\nPada Android versi ini mulai terdapat fitur Google Now yang berfungsi mempermudah pencarian yang terdapat pada home screen, Fitur photo sphere, dan berbagai widget terbaru.
+        \n\n<b>10. Android 4.4 (KitKat)</b>
+        \n\nVersi android ini memberikan optimalisasi yang baik yang bahkan dapat mendukung perangkat  smartphone yang spesifikasinya cukup rendah saat itu. Sehingga pada masanya, versi android ini menjadi jenis android favorit.
+        \n\nVersi android ini menjadi fondasi dibuatnya smartphone flagship yang memiliki spesifikasi yang cukup bagus. Versi ini juga sudah mulai mendukung  mode 64-bit, sehingga memungkinkan penggunaan ram diatas 3GB.
+        \n\n<b>11. Android 6.0 (Marshmallow)</b>
+        \n\nVersi android ini mulai memperkenalkan sistem sensor sidik jari sebagai bentuk keamanan dan sistem pembayaran pada google play.
+        \n\nUntuk saat ini, OS Android Nougat masih digunakkan pada beberapa smartphone jadul. Versi ini mengalami perubahan pada interface dan juga meng-implementasikan mode split screen, sehingga 2 aplikasi dapat tampil dalam 1 layar.
+        \n\n<b>12. Android 8.0 - 8.1 (Oreo)</b>
+        \n\nOreo menjadi OS android umum karena banyak digunakkan dan bahkan mungkin anda juga pakai. Versi ini menjadi versi kedua setelah  KitKat yang menggunakan brand cemilan manis terkenal. OS android ini membuat pengguna dapat mendapatkan pembaharuan lebih cepat.
+        \n\n<b>13. Android 9.0 (Pie)</b>
+        \n\nOS android Pie memberikan navigasi gesture yang merubah bentuk tombol Home, Back, dan Recent Apps. Versi ini juga memberikan beberapa fitur yang berguna seperti pengaturan kecerahan, notification setting, dan screenshooting.
+        \n\n<b>14. Android 10 (Q)</b>
+        \n\nVersi android ini masih terbatas pada beberapa perangkat  android saja. Salah satu fitur dalam Android 10 adalah Dark Mode yang dipercaya dapat mengurangi daya penggunaan baterai. Dan juga tema penggunaan nama-nama makanan manis sudah dihentikan dari versi android ini.
+        \n\n<b>15. Android 11</b>
+        \n\nSistem keamanan pada android 11 lebih canggih dibanding versi versi sebelumnya. OS android 11 juga memungkinkan untuk screen record tanpa aplikasi eksternal, dan juga screenshot panjang.
+        \n\n<b>16. Android 12</b>
+        \n\nOS ini masih dalam tahap pengembangan dan dikenal sebagai Android 12 beta preview. Versi ini memperkenalkan berbagai fitur baru yang belum ada pada pendahulunya, seperti One-Handed Mode, Customize Phone, dan Privary Security Enhancement. Peningkatan fitur privasi menjadi mungkin dengan diadakannya Privacy Dashboard yang berisi data pribadi sepeti akses lokasi, penggunaan kamera dan mikrofon selama 24 jam terakhir.
+        \n\nPermintaan terhadap ponsel pintar semakin meningkat dari tahun ke tahun dan perusahaan pembuatnya akan terus bersaing mengembangkan sistem operasi untuk ponsel. Android sebagai sistem operasi memiliki pangsa pasar 71.52% tergolong besar dan diminati oleh banyak orang. Oleh karena itu, Google harus mempertimbangkan untuk menciptakan sistem operasi yang semakin aman, karena tantangan keamanan akan semakin besar seiring meningkatnya permintaan terhadap sistem operasi Android. Bersamaan dengan itu, berbagai fitur baru yang mendukung kenyamanan pengguna juga harus ditingkatkan agar Android semakin diminati pengguna karena kenyamanan dan keamanannya dan dengan demikian dapat bersaing dengan merk lain.
+    </string>
+
+    <string name="paragraf_2">View objects are often called widgets and can be one of many subclasses, such as Button or TextView. The ViewGroup objects are usually called layouts and can be one of many types that provide a different layout structure, such as LinearLayout or ConstraintLayout.</string>
+    <string name="paragraf_3">Declaring your UI in XML lets you separate the presentation of your app from the code that controls its behavior. Using XML files also makes it easier to provide different layouts for different screen sizes and orientations. This is discussed further in Support different screen sizes.</string>
+    <string name="paragraf_4">Using Androids XML vocabulary, you can quickly design UI layouts and the screen elements they contain, in the same way that you create web pages in HTML with a series of nested elements. Each layout file must contain exactly one root element, which must be a View or ViewGroup object. After you define the root element, you can add additional layout objects or widgets as child elements to gradually build a View hierarchy that defines your layout. For example, heres an XML layout that uses a vertical LinearLayout to hold a TextView and a Button</string>
+    <string name="paragraf_5">After you declare your layout in XML, save the file with the .xml extension in your Android projects res/layout/ directory so it properly compiles. For more information about the syntax for a layout XML file, see Layout resource.</string>
+
+    <string name="img_description">gambar background</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>

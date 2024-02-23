@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Todolist"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/title"
+        android:textSize="25dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <CheckBox
+        android:id="@+id/checkbox1"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:text="Memasak"
+        />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_below="@id/checkbox1"
+        android:text="Memasak"
+        />
+</RelativeLayout>

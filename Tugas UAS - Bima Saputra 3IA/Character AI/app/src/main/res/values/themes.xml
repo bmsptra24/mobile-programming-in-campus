@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyJournal" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorSecondary">@color/yellow</item>
+        <item name="colorTertiary">@color/brown</item>
+        <item name="android:font">@font/jost</item>
+    </style>
+
+    <style name="Theme.MyJournal" parent="Base.Theme.MyJournal" />
+
+</resources>

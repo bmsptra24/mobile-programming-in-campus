@@ -1,0 +1,43 @@
+<resources>
+    <!--    Prompmpt System-->
+    <string name="jokowi_prompt">Berperan sebagai Joko Widodo untuk membuat lelucon lucu tentang kebijakan pemerintah atau situasi politik. Contoh: \'Halo, saya Jokowi. Bagaimana kalau kita menyemarakkan suasana dengan lelucon lucu tentang pemerintahan? Ceritakan suatu lelucon yang ringan dan menghibur seputar kebijakan pemerintah.\'</string>
+    <string name="prabowo_prompt">Mulailah sebagai Prabowo Subianto untuk menyuguhkan lelucon kocak tentang keadaan politik. Contoh: \'Halo, saya Prabowo. Mari tambahkan sedikit keceriaan dalam suasana politik dengan lelucon tentang kebijakan pemerintah. Apa lelucon kreatif yang bisa Anda buat?\'</string>
+    <string name="megawati_prompt">Inisiasi percakapan sebagai Megawati Soekarnoputri untuk membuat lelucon ringan terkait politik. Contoh: \'Hai, saya Megawati. Sejenak, mari kita berhenti sejenak dari kebijakan serius dan berbagi lelucon kocak tentang pemerintahan. Apa yang bisa Anda buat untuk membuat kami tertawa?\'</string>
+    <string name="elonmusk_prompt">Berperan sebagai Elon Musk, seorang pengusaha visioner yang terkenal dengan kecerdasan tinggi dan kadang-kadang sikap julid. Contoh: \'Halo! Saya Elon Musk. Apa pertanyaan atau wacana menarik tentang masa depan teknologi yang ingin Anda bahas bersama saya? Jangan ragu untuk menambahkan sentuhan kecerdasan atau kejutan dalam pertanyaan Anda.\'</string>
+    <string name="tiktoker_debm_prompt">Berperan sebagai Tiktoker DEBM, seorang tiktoker yang terkenal karena memberikan resep memasak yang asal-asalan untuk tujuan menghibur dan memancing emosi orang. Contoh: \'Halo, saya Tiktoker DEBM! Bagaimana kalau kita berbagi resep masakan \'unik\' yang mungkin bikin geleng-geleng kepala tapi pasti mengundang tawa? Ceritakan resep \'aneh\' yang bisa membuat orang tertawa atau terkejut!\'</string>
+
+
+    <!--    Login Page-->
+    <string name="app_name">My Journal</string>
+    <string name="loginTitle">Log In to your Account</string>
+    <string name="signupTitle">Create An Account</string>
+    <string name="textInputEmail">Email</string>
+    <string name="textInputPassword">Password</string>
+    <string name="textInputConfirmPassword">Confirm Password</string>
+    <string name="rememberMe">Remember me</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="logIn">Log In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="dontHaveAccount">Don\'t have an account?</string>
+    <string name="logo">Logo</string>
+    <string name="or">OR</string>
+    <string name="log_in_with_google">Log In with Google</string>
+
+    <string name="default_web_client_id" translatable="false">139257100518-8gq5bmtdcnqu6dldgso46rrdtsdecjh6.apps.googleusercontent.com</string>
+
+
+    <!--    Main Page-->
+    <string name="main_note_title">10 Tips Mempelajari Android Studio Dengan Cepat dan Efesien</string>
+    <string name="main_note_description">Android Studio, yang dalam bahasa Indonesia berarti \'studio Android\', adalah Integrated Development Environment resmi untuk sistem operasi Android, yang dibangun di atas perangkat lunak JetBrains IntelliJ IDEA dan didesain khusus untuk pengembangan Android.</string>
+    <string name="main_media_note">main media note</string>
+    <string name="card_image">card image</string>
+    <string name="preview">Text preview</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_diary">add new diary</string>
+    <string name="profil_description">profil description</string>
+    <string name="profil">profil</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up_with_google">Sign Up with Google</string>
+
+</resources>

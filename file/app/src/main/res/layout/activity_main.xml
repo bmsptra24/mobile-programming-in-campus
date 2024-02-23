@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:text="Latihan Storage"
+        android:background="#FFC107"
+        android:padding="20dp"/>
+
+    <RelativeLayout
+        android:id="@+id/btnContainer"
+        android:layout_below="@id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBuat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Buat File"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnUbah"
+            android:layout_below="@id/btnBuat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ubah File"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBaca"
+            android:layout_below="@id/btnUbah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Baca File"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnHapus"
+            android:layout_below="@id/btnBaca"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hapus File"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/hasilBaca"
+        android:layout_below="@id/btnContainer"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hasil Baca File!"
+        android:inputType="textMultiLine"/>
+
+</RelativeLayout>
